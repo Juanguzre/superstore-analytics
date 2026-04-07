@@ -1,2 +1,2 @@
 # superstore-analytics
-End-to-end data analysis project using MySQL and Power BI to explore sales trends, customer segmentation, and profit drivers.
+Business analytics project using SQL and Power BI to analyze sales performance, customer behavior, and profitability in a retail dataset.
